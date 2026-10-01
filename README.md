@@ -3,7 +3,7 @@
 Android TV için Türkçe bir dizi/film servis kataloğu. Uygulama içerik kopyalamaz; kartlara basınca ilgili resmi servis açılır.
 
 ## Başlangıç servisleri
-- tabii — https://www.tabii.com/tr/
+- hdfilm — https://www.hdfilmcehennemi.nl/
 - Netflix Türkiye — https://www.netflix.com/tr/
 - Disney+ Türkiye — https://www.disneyplus.com/tr-tr/
 
